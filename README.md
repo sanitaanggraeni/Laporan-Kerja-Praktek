@@ -6,7 +6,7 @@ Mohon maaf kepada Bapak/Ibu dosen, file laporan Kerja Praktek tidak dapat ditamp
 Silakan download file terlebih dahulu untuk melihat isi laporan secara lengkap.
 
 Cara download:
-1. Klik file "LAPORAN KP SANITA ANGGRAENI CKLST FINAL.docx"
+1. Klik file "LAPORAN KERJA PRAKTEK SANITA ANGGRAENI FINAL.docx"
 2. Klik tombol Download di pojok kanan atas
 3. File akan otomatis terunduh dan bisa dibuka di Microsoft Word.
 
